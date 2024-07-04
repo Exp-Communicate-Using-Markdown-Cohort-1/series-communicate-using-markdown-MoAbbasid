@@ -4,3 +4,8 @@
 ```
 print("Hello, World")
 ```
+- [x] Buy groceries
+- [x] Prepare ingredients
+- [x] Make food
+- [ ] Eat food
+- [ ] Clean the dishes and table 
